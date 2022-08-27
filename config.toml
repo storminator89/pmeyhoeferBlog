@@ -1,4 +1,4 @@
-﻿baseURL = 'https://patricks-blog.onrender.com/'
+baseURL = 'https://patricks-blog.onrender.com/'
 languageCode = 'de-de'
 title = 'Patrick's Blog'
 theme = 'ananke'
