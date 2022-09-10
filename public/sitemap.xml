@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://patricks-blog.onrender.com/posts/my-first-post/</loc>
-    <lastmod>2022-08-27T15:03:09+02:00</lastmod>
-  </url><url>
     <loc>https://patricks-blog.onrender.com/</loc>
-    <lastmod>2022-08-27T15:03:09+02:00</lastmod>
+    <lastmod>2022-09-10T22:16:31+02:00</lastmod>
   </url><url>
     <loc>https://patricks-blog.onrender.com/posts/</loc>
+    <lastmod>2022-09-10T22:16:31+02:00</lastmod>
+  </url><url>
+    <loc>https://patricks-blog.onrender.com/posts/test/</loc>
+    <lastmod>2022-09-10T22:16:31+02:00</lastmod>
+  </url><url>
+    <loc>https://patricks-blog.onrender.com/posts/my-first-post/</loc>
     <lastmod>2022-08-27T15:03:09+02:00</lastmod>
   </url><url>
     <loc>https://patricks-blog.onrender.com/categories/</loc>

@@ -6,14 +6,23 @@
     <description>Recent content on Patricks Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Sat, 27 Aug 2022 15:03:09 +0200</lastBuildDate><atom:link href="https://patricks-blog.onrender.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Sep 2022 22:16:31 +0200</lastBuildDate><atom:link href="https://patricks-blog.onrender.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://patricks-blog.onrender.com/posts/test/</link>
+      <pubDate>Sat, 10 Sep 2022 22:16:31 +0200</pubDate>
+      
+      <guid>https://patricks-blog.onrender.com/posts/test/</guid>
+      <description>Hier kommt der nächste Post!</description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>https://patricks-blog.onrender.com/posts/my-first-post/</link>
       <pubDate>Sat, 27 Aug 2022 15:03:09 +0200</pubDate>
       
       <guid>https://patricks-blog.onrender.com/posts/my-first-post/</guid>
-      <description>Hello World! Erster Test!</description>
+      <description>Hello World! Erster Test! </description>
     </item>
     
   </channel>
