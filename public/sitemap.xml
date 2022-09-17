@@ -22,16 +22,15 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://patricks-blog.onrender.com/about/</loc>
-    <lastmod>2022-08-27T15:03:09+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://patricks-blog.onrender.com/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://patricks-blog.onrender.com/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://patricks-blog.onrender.com/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
