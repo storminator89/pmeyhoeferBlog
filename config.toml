@@ -34,8 +34,6 @@ enableRobotsTXT = true
   show_reading_time = true
   date_format = "2. January 2006"
 
-[[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/storminator89"
+
 
 
