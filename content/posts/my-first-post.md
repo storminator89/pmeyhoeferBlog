@@ -3,14 +3,16 @@ title: "Mein erster Post"
 date: 2022-09-17T15:03:09+02:00
 ---
 
-Dies ist also nun mein erster Blogpost auf diesem Blog. Am Anfang möchte ich mich besonders auf die Technologien rund um das verwendete Blogsystem [Hugo](https://gohugo.io/) konzentrieren. 
+Dies ist also nun mein "Hallo Welt" auf dieser Seite. Der Blog läuft unter [Hugo](https://gohugo.io/) und ich muss mich erstmal in die gesamte Thematik einarbeiten. 
 
-Früher habe ich gerne auch mal kleine Video-Tutorials aufgenommen, hier mal ein Beispiel - mir ist klar der Ton ist noch klar verbesserungswürdig, aber das Video ist 8 Jahre alt.
+Verzeiht daher, wenn noch nicht alles rund läuft und es vielleicht noch nicht überall schön aussieht. Auch die Domain ist erstmal nur zum Testen und zieht vielleicht im Laufe der Jahre auch noch einmal um.
 
+
+<!---
 {{< youtube id="V7kQfUWG2vU" title="Beispielvideo von mir" >}}
+-->
 
-
-Ansonsten beschäftige ich mich momentan viel mit dem Thema Aktien, ETFs, Broker - vielleicht kommt hier auch mal der ein oder andere Blogpost dazu.
+Ich beschäftige mich momentan viel mit dem Thema Aktien, ETFs, Broker - da wird es mit Sicherheit in nächster Zeit ein paar Posts dazu geben. Andere Themen können aber jederzeit aufschlagen. Ich will mich da nicht auf ein bestimmtes Thema festlegen. Nun aber wünsche ich dir viel Spaß auf diesem Blog!
 
 <!---
 Bild:
