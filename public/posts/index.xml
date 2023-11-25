@@ -6,25 +6,25 @@
     <description>Recent content in Posts on Patricks Gedanken und Meinungen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 23 Oct 2023 19:03:09 +0200</lastBuildDate><atom:link href="https://patricks-blog.onrender.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Nov 2023 08:03:09 +0200</lastBuildDate><atom:link href="https://patricks-blog.onrender.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mein zweiter Post</title>
+      <title>Kurzer Test Synchronisation</title>
       <link>https://patricks-blog.onrender.com/posts/my-second_post/</link>
-      <pubDate>Mon, 23 Oct 2023 19:03:09 +0200</pubDate>
+      <pubDate>Sat, 25 Nov 2023 08:03:09 +0200</pubDate>
       
       <guid>https://patricks-blog.onrender.com/posts/my-second_post/</guid>
-      <description>Extra Test für BB :) ``</description>
+      <description>Ein kleiner Test auf der neuen Webseite</description>
     </item>
     
     <item>
       <title>Mein erster Post</title>
       <link>https://patricks-blog.onrender.com/posts/my-first-post/</link>
-      <pubDate>Sat, 17 Sep 2022 15:03:09 +0200</pubDate>
+      <pubDate>Fri, 24 Nov 2023 15:03:09 +0200</pubDate>
       
       <guid>https://patricks-blog.onrender.com/posts/my-first-post/</guid>
       <description>Dies ist also nun mein &amp;ldquo;Hallo Welt&amp;rdquo; auf dieser Seite. Der Blog läuft unter Hugo und ich muss mich erstmal in die gesamte Thematik einarbeiten.
-Verzeiht daher, wenn noch nicht alles rund läuft und es vielleicht noch nicht überall schön aussieht. Auch die Domain ist erstmal nur zum Testen und zieht vielleicht im Laufe der Jahre auch noch einmal um.
-Ich beschäftige mich momentan viel mit dem Thema Aktien, ETFs, Broker - da wird es mit Sicherheit in nächster Zeit ein paar Posts dazu geben.</description>
+Verzeiht daher, wenn noch nicht alles rund läuft und es vielleicht noch nicht überall schön aussieht.
+Ich beschäftige mich momentan viel mit dem Thema KI, allgemeine Software, Aktien, ETFs, Broker - da wird es mit Sicherheit in nächster Zeit ein paar Posts dazu geben. Andere Themen können aber jederzeit aufschlagen.</description>
     </item>
     
   </channel>
