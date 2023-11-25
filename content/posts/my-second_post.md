@@ -1,7 +1,6 @@
 ---
-title: "Mein zweiter Post"
-date: 2023-10-23T19:03:09+02:00
+title: "Kurzer Test Synchronisation"
+date: 2023-11-25T08:03:09+02:00
 ---
 
-Extra Test für BB :)
-``
+Ein kleiner Test auf der neuen Webseite

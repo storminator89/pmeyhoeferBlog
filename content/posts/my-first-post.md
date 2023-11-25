@@ -1,18 +1,18 @@
 ---
 title: "Mein erster Post"
-date: 2022-09-17T15:03:09+02:00
+date: 2023-11-24T15:03:09+02:00
 ---
 
 Dies ist also nun mein "Hallo Welt" auf dieser Seite. Der Blog läuft unter [Hugo](https://gohugo.io/) und ich muss mich erstmal in die gesamte Thematik einarbeiten. 
 
-Verzeiht daher, wenn noch nicht alles rund läuft und es vielleicht noch nicht überall schön aussieht. Auch die Domain ist erstmal nur zum Testen und zieht vielleicht im Laufe der Jahre auch noch einmal um.
+Verzeiht daher, wenn noch nicht alles rund läuft und es vielleicht noch nicht überall schön aussieht. 
 
 
 <!---
 {{< youtube id="V7kQfUWG2vU" title="Beispielvideo von mir" >}}
 -->
 
-Ich beschäftige mich momentan viel mit dem Thema Aktien, ETFs, Broker - da wird es mit Sicherheit in nächster Zeit ein paar Posts dazu geben. Andere Themen können aber jederzeit aufschlagen. Ich will mich da nicht auf ein bestimmtes Thema festlegen. Nun aber wünsche ich dir viel Spaß auf diesem Blog!
+Ich beschäftige mich momentan viel mit dem Thema KI, allgemeine Software, Aktien, ETFs, Broker - da wird es mit Sicherheit in nächster Zeit ein paar Posts dazu geben. Andere Themen können aber jederzeit aufschlagen. Ich will mich da nicht auf ein bestimmtes Thema festlegen. Nun aber wünsche ich dir viel Spaß auf diesem Blog!
 
 <!---
 Bild:
